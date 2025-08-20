@@ -32,6 +32,10 @@ Deletes a topic by ID. Requires authentication.
 `POST /login`  
 Receives credentials and returns a **JWT** that must be used in subsequent requests as a **Bearer Token**.
 
+<img width="530" height="438" alt="image" src="https://github.com/user-attachments/assets/ddb7fa98-f41f-489d-9702-69e24b4a72b8" />
+
+<img width="179" height="203" alt="image" src="https://github.com/user-attachments/assets/60c586ab-d404-49e4-a317-520b9a310088" />
+
 ---
 
 ## 🛡️ Authentication Flow
