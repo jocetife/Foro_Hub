@@ -39,3 +39,12 @@ Receives credentials and returns a **JWT** that must be used in subsequent reque
 1. Send a `POST` request to `/login` with email and password.
 2. Receive a **Bearer Token** in the response.
 3. Use this token in the `Authorization` header of other requests
+
+## 🎯 Learning Outcomes
+
+- By completing this project, participants will gain experience in:
+- Java programming and OOP principles – applying object-oriented design in a real-world backend application.
+- Working with APIs and handling JSON data – sending requests, parsing responses, and integrating with a RESTful API.
+- Using Spring Boot and Spring Data JPA – building a full-featured backend with security, persistence, and migrations.
+- Managing projects with agile tools like Trello – organizing tasks, breaking down features, and tracking progress.
+- Practicing database operations and ensuring data integrity – performing CRUD operations while avoiding duplicate entries and maintaining consistent data.
